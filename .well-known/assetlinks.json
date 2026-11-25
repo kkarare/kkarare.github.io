@@ -1,0 +1,24 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.kkarare.twa",
+      "sha256_cert_fingerprints": [
+        "67:96:7D:AF:E8:54:A7:69:A9:33:F5:CA:60:0E:89:20:48:CC:E7:D0:20:3E:9A:F1:A8:E5:62:04:A2:81:2E:F9"
+      ]
+    }
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
